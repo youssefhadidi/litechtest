@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youssefhadidi/litechweb/static/css/main.2bbf5ed2.css",
+    "main.js": "/youssefhadidi/litechweb/static/js/main.b3b93063.js",
+    "index.html": "/youssefhadidi/litechweb/index.html",
+    "main.2bbf5ed2.css.map": "/youssefhadidi/litechweb/static/css/main.2bbf5ed2.css.map",
+    "main.b3b93063.js.map": "/youssefhadidi/litechweb/static/js/main.b3b93063.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bbf5ed2.css",
+    "static/js/main.b3b93063.js"
+  ]
+}
